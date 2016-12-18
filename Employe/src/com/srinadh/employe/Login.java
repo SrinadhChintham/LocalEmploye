@@ -5,6 +5,7 @@ public class Login {
 	public String passwrd;
 	public String getUname() {
 		return uname;
+		// this is a return statement
 	}
 	public void setUname(String uname) {
 		this.uname = uname;

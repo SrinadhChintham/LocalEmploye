@@ -6,6 +6,7 @@ public class Login {
 	public String getUname() {
 		return uname;
 		// this is a return st atement
+		// I am adding one more comment
  	}
 	public void setUname(String uname) {
 		this.uname = uname;

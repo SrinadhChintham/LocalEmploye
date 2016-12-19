@@ -7,6 +7,7 @@ public class Login {
 		return uname;
 		// this is a return st atement
 		// I am adding one more comment
+		// my name is srinadh author of this application
  	}
 	public void setUname(String uname) {
 		this.uname = uname;
